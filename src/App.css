@@ -24,6 +24,11 @@
   color: white;
 }
 
+.cross-out {
+  text-decoration: line-through;  
+  text-decoration-style: solid;  
+}
+
 .App-link {
   color: #61dafb;
 }
